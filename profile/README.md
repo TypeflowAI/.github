@@ -1,1 +1,1 @@
-![TypeflowAI](https://github.com/TypeflowAI/.github/assets/1154202/794e227a-0061-4fb3-99e4-9fadb7ba95c8)
+![TypeflowAI](https://github.com/TypeflowAI/.github/assets/1154202/adcd3284-d1d8-4f7c-85f2-4747948102da)
