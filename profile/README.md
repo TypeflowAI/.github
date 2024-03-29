@@ -1,9 +1,6 @@
 <!-- PROJECT LOGO -->
+[![TypeflowAI](https://github.com/TypeflowAI/.github/assets/1154202/89a20c65-50ba-4c3d-9f14-8df7f3521070)](https://typeflowai)
 <p align="center">
-  <a href="https://github.com/typeflowai/typeflowai>
-   <img src="https://user-images.githubusercontent.com/8019099/210054112-5955e812-a76e-4160-9ddd-58f2c72f1cce.png" alt="Logo">
-  </a>
-
   <h3 align="center">TypeflowAI</h3>
 
   <p align="center">
